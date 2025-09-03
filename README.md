@@ -39,7 +39,7 @@ STEP 6: Use zscore of to remove outliers
 
 <img width="822" height="592" alt="image" src="https://github.com/user-attachments/assets/0d2cca92-0776-4a2c-bfa1-21dbba39f725" />
 
-# Dispay the sum of NULL values in each row
+# Display the sum of NULL values in each row
 
 <img width="351" height="327" alt="image" src="https://github.com/user-attachments/assets/874c8d80-1a1d-4aa4-b8fd-4090428e7e65" />
 
@@ -61,7 +61,7 @@ STEP 6: Use zscore of to remove outliers
 
 <img width="760" height="307" alt="image" src="https://github.com/user-attachments/assets/7d52a0fa-48c5-4c4e-a202-c75e5b09e4a6" />
 
-# Use Boxplot function to detect outlier
+# Use boxplot function to detect outlier
 
 <img width="857" height="666" alt="image" src="https://github.com/user-attachments/assets/fc149882-6ca5-48b0-aeff-e27d29d8974b" />
 
