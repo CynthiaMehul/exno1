@@ -86,4 +86,10 @@ STEP 6: Use zscore of to remove outliers
 <img width="812" height="603" alt="image" src="https://github.com/user-attachments/assets/a9732a8b-eac5-495f-9b7b-bec4db8ee1aa" />
 
 # Result
-Therefore, data cleaning steps are successfully executed to prepare data for further processing.  
+Therefore, data cleaning steps are successfully executed to prepare data for further processing. 
+
+# Summary
+Data cleaning is a crucial process required to improve the quality of the data. It involves handling missing values, outlier detection and so on.
+1) Displaying details about the dataset helps us analyse and understand the data.
+2) NULL values can be handled in various ways such as removing the missing data record or replacing it with statistical measures such as mean, median and mode. Deciding the method depends on the type of dataset.
+3) Outlier detection can be done using IQR method or Z score methods. 
