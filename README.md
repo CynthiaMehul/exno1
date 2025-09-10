@@ -92,4 +92,21 @@ Therefore, data cleaning steps are successfully executed to prepare data for fur
 Data cleaning is a crucial process required to improve the quality of the data. It involves handling missing values, outlier detection and so on.
 1) Displaying details about the dataset helps us analyse and understand the data.
 2) NULL values can be handled in various ways such as removing the missing data record or replacing it with statistical measures such as mean, median and mode. Deciding the method depends on the type of dataset.
-3) Outlier detection can be done using IQR method or Z score methods. 
+3) Outlier detection can be done using IQR method or Z score methods.
+
+# Dealing with heights.csv Dataset:
+The height dataset contains outliers. IQR method can be used to detect these outliers.
+
+<img width="896" height="554" alt="image" src="https://github.com/user-attachments/assets/401b4399-d4d7-4e17-9659-eea764af92ea" />
+
+# Dealing with iris.csv Dataset:
+To understand the distribution of the features of iris dataset, we display it in box plot. 
+
+<img width="751" height="707" alt="image" src="https://github.com/user-attachments/assets/0a211850-b5b1-4362-a933-14f4b172da58" />
+
+Inference:
+1) Sepal Length almost has symmetric distribution, no extreme outliers are visible
+2) Sepal Width has asymmetric distribution and outliers are visible in the box plot.
+3) Petal Length is highly asymmetric but no outliers are visible.
+4) Petal Width is slightly asymmetric and no outliers are visible.
+
